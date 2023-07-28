@@ -10,3 +10,4 @@
 | 876  |[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/) | [Java](.algorithms/q876_middle_of_the_linked_list/MiddleOfTheLinkedList.java) | $\color{lime}{Easy}$ |
 | 383  |[Ransom Note](https://leetcode.com/problems/ransom-note/) | [Java](.algorithms/q383_ransom_note/RansomNote.java) | $\color{lime}{Easy}$ |
 | 13   |[Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Java](.algorithms/q13_roman_to_integer/RomanToInteger.java) | $\color{lime}{Easy}$ |
+| 20   |[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Java](.algorithms/q20_valid_parentheses/ValidParentheses.java) | $\color{lime}{Easy}$ |
