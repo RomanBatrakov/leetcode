@@ -9,3 +9,4 @@
 | 1342 |[Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/description/) | [Java](.algorithms/q1342_number_of_steps_to_reduce_a_number_to_zero/NumberOfStepsToReduceANumberToZero.java) | $\color{lime}{Easy}$ |
 | 876  |[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/) | [Java](.algorithms/q876_middle_of_the_linked_list/MiddleOfTheLinkedList.java) | $\color{lime}{Easy}$ |
 | 383  |[Ransom Note](https://leetcode.com/problems/ransom-note/) | [Java](.algorithms/q383_ransom_note/RansomNote.java) | $\color{lime}{Easy}$ |
+| 13   |[Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Java](.algorithms/q13_roman_to_integer/RomanToInteger.java) | $\color{lime}{Easy}$ |
