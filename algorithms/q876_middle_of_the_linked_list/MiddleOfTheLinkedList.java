@@ -11,20 +11,20 @@ package q876_middle_of_the_linked_list;
  * }
  */
 public class MiddleOfTheLinkedList {
-//    public ListNode middleNode(ListNode head) {
-//        if (head == null) return null;
-//        if (head.next == null) return head;
-//        List<ListNode> nodeList = new ArrayList<>();
-//        do {
-//            nodeList.add(head);
-//            head = head.next;
-//        } while (head != null);
-//        int index = 0;
-//        if (nodeList.size() > 2) {
-//            index = nodeList.size() / 2;
-//        } else {
-//            index = 1;
-//        }
-//        return nodeList.get(index);
-//    }
+    public ListNode middleNode(ListNode head) {
+        if (head == null) return null;
+        if (head.next == null) return head;
+        List<ListNode> nodeList = new ArrayList<>();
+        do {
+            nodeList.add(head);
+            head = head.next;
+        } while (head != null);
+        int index = 0;
+        if (nodeList.size() > 2) {
+            index = nodeList.size() / 2;
+        } else {
+            index = 1;
+        }
+        return nodeList.get(index);
+    }
 }
