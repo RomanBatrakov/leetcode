@@ -1,5 +1,10 @@
 package q876_middle_of_the_linked_list;
 
+import q142_linked_list_cycle_2.ListNode;
+
+import java.util.ArrayList;
+import java.util.List;
+
 /**
  * Definition for singly-linked list.
  * public class ListNode {
