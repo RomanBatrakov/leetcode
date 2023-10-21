@@ -22,3 +22,4 @@
 | 334    |[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | [Java](leetcode/blob/main/algorithms/q334_increasing_triplet_subsequence/IncreasingTripletSubsequence.java)                       | $\color{#FFA500}{Medium}$ |
 | 283    |[Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Java](leetcode/blob/main/algorithms/q283_move_zeroes/MoveZeroes.java)                       | $\color{lime}{Easy}$ |
 | 392    |[Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [Java](leetcode/blob/main/algorithms/q392_is_subsequence/IsSubsequence.java)                       | $\color{lime}{Easy}$ |
+| 11     |[Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Java](leetcode/blob/main/algorithms/q11_container_with_most_water/ContainerWithMostWater.java)                       | $\color{#FFA500}{Medium}$ |
