@@ -23,3 +23,4 @@
 | 283    |[Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Java](leetcode/blob/main/algorithms/q283_move_zeroes/MoveZeroes.java)                       | $\color{lime}{Easy}$ |
 | 392    |[Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [Java](leetcode/blob/main/algorithms/q392_is_subsequence/IsSubsequence.java)                       | $\color{lime}{Easy}$ |
 | 11     |[Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Java](leetcode/blob/main/algorithms/q11_container_with_most_water/ContainerWithMostWater.java)                       | $\color{#FFA500}{Medium}$ |
+| 1679   |[Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/) | [Java](leetcode/blob/main/algorithms/q1679/_max_number_of_k_sum_pairs/MaxNumberOfKSumPairs.java)                       | $\color{#FFA500}{Medium}$ |
