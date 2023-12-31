@@ -29,7 +29,6 @@ public class LinkedListCycleII {
                 scope.add(head);
                 head = head.next;
             }
-
         }
 
         return null;

@@ -32,4 +32,5 @@ public class MaximumAverageSubarrayI {
 
         return (double) maxSum /k;
     }
+
 }
